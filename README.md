@@ -1,9 +1,9 @@
 ﻿# theme-switcher-context-api
 
-### Using context-api the theme of the app is changed from dark to light & vice - versa.
+> Using context-api the theme of the app is changed from dark to light & vice - versa.
 
-### dark theme
+* dark theme
 ![output](src/assets/dark_theme.PNG)
 
-### light theme
+* light theme
 ![output](src/assets/white_theme.PNG)
